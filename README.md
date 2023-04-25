@@ -11,3 +11,6 @@ pip3 install 'google-auth==1.8.0'
 pip3 install 'google-auth-httplib2==0.0.3'
 
 pip3 install 'google-auth-oauthlib==0.4.1'
+
+
+Also, enable Google Calendar API for yourself first and save the client secret key in client_secret.json format.
